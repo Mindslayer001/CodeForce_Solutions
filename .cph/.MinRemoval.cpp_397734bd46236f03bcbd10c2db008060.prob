@@ -1,0 +1,1 @@
+{"name":"Local: MinRemoval","url":"/home/mindslayer001/learning/Cpp/MinRemoval.cpp","tests":[{"id":1726753265637,"input":"pppiii","output":"1"},{"id":1726753288891,"input":"pppp","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mindslayer001/learning/Cpp/MinRemoval.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MySortTechniques","url":"/home/mindslayer001/learning/Cpp/MySortTechniques.cpp","tests":[{"id":1726738931013,"input":"1110101111","output":"CAD"},{"id":1726738941341,"input":"10111011111","output":"ACE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mindslayer001/learning/Cpp/MySortTechniques.cpp","group":"local","local":true}
